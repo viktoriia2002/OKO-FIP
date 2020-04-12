@@ -1,11 +1,12 @@
 # OKO-FIP
 
-##Description
+# Description
+
 That is my FIP. The name is OKO. "OKO" is translated from Ukrainian as "EYE" in English. I chose that name as far as this website is a photography website and as a photographer the camera is associated an eye for, but I do no want to use "EYE" as the name of my final project. I want to call it more unusual. So how I said that website is about my works as a young photographer. I hope you enjoy it!
 
 Stay safe!
 
-##MIT License
+# MIT License
 
 Copyright (c) 2020 Viktoriia Tyshchuk
 
